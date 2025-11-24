@@ -1,0 +1,5 @@
+- Redo App and DB deployment from previous skills sprint.
+- SSH key pair and Personal AMIs needed before starting this week's content
+- Document anything you may need to from app deployment if possible
+- Set up GitHub repo for this week's content (VPCs and Terraform)
+- Start to research VPCs and basic cloud networking/security
