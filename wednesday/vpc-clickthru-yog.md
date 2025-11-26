@@ -1,5 +1,7 @@
 # Two-tier VPC setup
 
+my image path: cd se-app-deployment-files/nodejs20-se-test-app-2025/app
+
 ## VPC Setup
 
 ### Navigate to VPC
