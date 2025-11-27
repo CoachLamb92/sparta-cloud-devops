@@ -7,11 +7,12 @@ sleep 15
 cd /home/ubuntu
 
 # cd to correct folder
+# CHANGE THIS TO YOURS
 cd sparta-app-code
 
 # DB connection env var
+# CHANGE THIS TO YOURS
 export DB_HOST=mongodb://<Private IPv4 address of Private Instance>:27017/posts
-export DB_HOST=mongodb://10.0.3.212:27017/posts
 
 # npm install
 sudo npm install
