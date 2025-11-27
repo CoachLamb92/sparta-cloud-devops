@@ -1,10 +1,10 @@
-# */terraform.tfstate
-# */terraform.tfstate.backup
-# *.terraform/
 *.terraform.lock.hcl
 
 # Local .terraform directories
 .terraform/
+
+# variable files
+*variable.tf
 
 # .tfstate files
 *.tfstate
