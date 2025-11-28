@@ -5,7 +5,7 @@ resource "aws_vpc" "main" {
   instance_tenancy = "default"
 
   tags = {
-    Name = "se-morgan-2tier-vpc"
+    Name = "se-morgan-tf-vpc"
   }
 
 }
